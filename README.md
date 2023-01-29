@@ -1,7 +1,4 @@
-# digital-clock
-
-
-# Proyecto Apeperia
+# Proyecto: Digital Clock Widget
 
 ¡Hola a todos!
 
